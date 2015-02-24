@@ -202,7 +202,7 @@ section.success {
         float: left !important;
     }
     header {
-        background: url('./img/Evening_Alps.jpg') no-repeat center center fixed;
+        background: url('../img/Evening_Alps.jpg') no-repeat center center fixed;
     }
 }
 
