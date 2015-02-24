@@ -198,7 +198,7 @@ section.success {
         padding-top: 75px;
     }
     .col-sm-4{
-        width: 50% !important;
+        width: 33.3333333% !important;
         float: left !important;
     }
 }
