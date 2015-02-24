@@ -190,6 +190,12 @@ section.success {
 }
 
 @media(max-width:767px) {
+    header{
+        -webkit-background-size: auto;
+    -moz-background-size: auto;
+    -o-background-size: auto;
+    background-size: auto;
+    }
     section {
         padding: 75px 0;
     }
