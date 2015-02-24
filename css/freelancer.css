@@ -1,4 +1,4 @@
-/*!
+
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: url('file:///Users/tovinthomas/Desktop/startbootstrap-freelancer-1.0.2/img/Evening_Alps.jpg') no-repeat center center fixed;
+    background: url('/img/Evening_Alps.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
