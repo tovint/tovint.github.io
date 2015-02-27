@@ -195,6 +195,7 @@ section.success {
     -moz-background-size: auto;
     -o-background-size: auto;
     background-size: auto;
+    background-position: -100px;
     }
     section {
         padding: 75px 0;
