@@ -204,7 +204,7 @@ section.success {
         padding-top: 75px;
     }
     .col-sm-4{
-        width: 33.3333333   % !important;
+        width: 33.3333333% !important;
         float: left !important;
     }
 }
@@ -483,5 +483,13 @@ footer .footer-below {
 .sub-row .col-lg-12 {
     padding: 0 0 15px 0;
 }
-
+section#portfolio:nth-child(odd){
+    background: #F0F0F0;
+}
+.modal-body h2{
+    font-family: 'Alegreya Sans', 'Helvetica', sans-serif;
+}
+.sub-row.alternate h2{
+    text-transform: none;
+}
 
