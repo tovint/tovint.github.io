@@ -191,11 +191,11 @@ section.success {
 
 @media(max-width:767px) {
     header{
-        -webkit-background-size: auto;
-    -moz-background-size: auto;
-    -o-background-size: auto;
-    background-size: auto;
-    background-position: -100px;
+        background: url('../img/Evening_Alps.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
     section {
         padding: 75px 0;
