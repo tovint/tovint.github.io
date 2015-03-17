@@ -27,6 +27,19 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <script src="js/jquery.js"></script>
+    <script>
+
+    window.onload = function() {
+
+        var password = prompt("Enter password");
+
+        if(password === "timetravel"){
+            $('body').css("display", "block");
+        }
+    }
+    </script>
+
     <style>
     body{
         display: none;
@@ -839,7 +852,6 @@
     </div>
     
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
@@ -871,17 +883,7 @@
 <link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
 <script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 
-    <script>
-
-    window.onload = function() {
-
-        var password = prompt("Enter password");
-
-        if(password === "timetravel"){
-            $('body').css("display", "block");
-        }
-    }
-    </script>
+    
 
 </body>
 
